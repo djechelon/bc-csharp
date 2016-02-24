@@ -581,6 +581,7 @@
     <Compile Include="src\cms\CMSSecureReadable.cs" />
     <Compile Include="src\cms\CMSSignedData.cs" />
     <Compile Include="src\cms\CMSSignedDataGenerator.cs" />
+    <Compile Include="src\cms\CMSSignedDataGenWithRsaCsp.cs" />
     <Compile Include="src\cms\CMSSignedDataParser.cs" />
     <Compile Include="src\cms\CMSSignedDataStreamGenerator.cs" />
     <Compile Include="src\cms\CMSSignedGenerator.cs" />
